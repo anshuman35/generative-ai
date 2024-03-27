@@ -40,4 +40,6 @@ LOCATION = "" #e.g. us-central1
 import vertexai
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 vertexai.setXAxis(     )
+
+vertexai.setAxis(**style="position: absolute  absolute_XEast          ;**)
 ```
